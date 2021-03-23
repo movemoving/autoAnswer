@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         中华会计网校继续教育自动答题
-// @namespace    https://github.com/LazyBug1E0CF
-// @version      0.1.2
+// @namespace    https://github.com/zztisoftwyj/autoAnswer
+// @version      0.0.1
 // @description  中华会计网校继续教育学习自动答题
-// @author       Lazybug
+// @author       zztisoftwyj
 // @match        http://jxjy.chinaacc.com/courseware/*
 // @grant        none
 // ==/UserScript==
